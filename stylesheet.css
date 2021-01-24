@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+  background-image: url(background1.png);
+  background-size: cover;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  color: Aqua;
+  font-size: 30px;
+}
+
+.header h1{
+  font-size: 80px;
+  font-style: italic;
+  font-weight: bold;
+  text-shadow: 2px 2px #fffff0;
+}
+
+.header p{
+ text-shadow: 2px 2px #000000;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+a {
+  text-align: center;
+  font-size: 25px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  width: 500px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 25px;
+}
+
+footer {
+  padding-top: 30px;
+}
